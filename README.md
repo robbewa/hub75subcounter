@@ -4,7 +4,7 @@ An open-source, Wi-Fi-connected YouTube subscriber counter and multi-functional 
 
 It fetches real-time channel statistics via the YouTube Data API, displays a custom channel logo, includes an active YouTube-themed NTP clock, and triggers animated fireworks upon hitting subscriber milestones!
 
-![https://www.youtube.com/watch?v=sCw4Do6QDgE](thumbv2.png)
+![https://www.youtube.com/watch?v=sCw4Do6QDgE](thumb v2.png)
 
 ---
 
